@@ -1,0 +1,8 @@
+redis:
+  address: "127.0.0.1:6379"
+
+mysql:
+  user: "test"
+  pwd: "test"
+  address: "192.168.0.227:3305"
+  dbBase: "test"

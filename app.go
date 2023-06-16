@@ -5,9 +5,9 @@ import "github.com/jessie-gui/go-bag/core"
 /**
  *
  *
- * @author        Gavin Gui <guijiaxian@gmail.com>
+ * @author        Jessie Gui <guijiaxian@gmail.com>
  * @version       1.0.0
- * @copyright (c) 2022, Gavin Gui
+ * @copyright (c) 2022, Jessie Gui
  */
 func main() {
 	// 初始化配置。
